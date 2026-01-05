@@ -2,6 +2,7 @@
 A real-time AI-powered person detection, tracking, and counting system using SSD MobileNet V3 and OpenCV. This project leverages deep learning and computer vision to automate crowd analytics for applications in smart cities, security, retail, and event management.
 
 👁️ Object Detection – The Eye of Tomorrow
+
 1️⃣ Project Overview
 
 The project “Object Detection – The Eye of Tomorrow” builds a real-time AI-powered system to detect, track, and count persons in video streams. It leverages advanced deep learning models combined with classical computer vision techniques to provide an automated, scalable solution for crowd analytics and surveillance.
